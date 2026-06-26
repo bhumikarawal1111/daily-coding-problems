@@ -22,4 +22,24 @@
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Array
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0169-majority-element) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
