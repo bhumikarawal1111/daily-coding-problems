@@ -10,10 +10,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0050-powx-n) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0050-powx-n) |
 ## Depth-First Search
 |  |
 | ------- |
