@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0002-add-two-numbers) |
+| [0138-copy-list-with-random-pointer](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Math
 |  |
@@ -33,6 +34,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
