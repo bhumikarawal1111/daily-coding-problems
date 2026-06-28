@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Math
@@ -56,4 +57,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
