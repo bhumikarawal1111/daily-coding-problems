@@ -33,11 +33,13 @@
 | [0136-single-number](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -46,6 +48,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
