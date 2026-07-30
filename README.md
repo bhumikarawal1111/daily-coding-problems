@@ -37,6 +37,7 @@
 | [0169-majority-element](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/1480-running-sum-of-1d-array) |
+| [1929-concatenation-of-array](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,4 +81,8 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/1480-running-sum-of-1d-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
