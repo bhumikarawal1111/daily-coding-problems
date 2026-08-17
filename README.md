@@ -29,6 +29,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -75,6 +76,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0061-rotate-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
@@ -112,4 +114,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0912-sort-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
