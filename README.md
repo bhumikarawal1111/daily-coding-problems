@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0053-maximum-subarray) |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0061-rotate-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
