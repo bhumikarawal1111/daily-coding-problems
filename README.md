@@ -39,6 +39,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0912-sort-an-array](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0912-sort-an-array) |
@@ -51,6 +52,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
@@ -134,4 +136,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
