@@ -42,6 +42,7 @@
 | [0219-contains-duplicate-ii](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0560-subarray-sum-equals-k) |
+| [0875-koko-eating-bananas](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0912-sort-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/1920-build-array-from-permutation) |
@@ -93,6 +94,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0875-koko-eating-bananas](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0875-koko-eating-bananas) |
 ## Prefix Sum
 |  |
 | ------- |
