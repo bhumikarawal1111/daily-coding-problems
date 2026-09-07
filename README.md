@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0050-powx-n) |
 ## Recursion
 |  |
@@ -33,6 +34,7 @@
 | [0031-next-permutation](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -147,5 +149,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
