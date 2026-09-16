@@ -22,6 +22,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0386-lexicographical-numbers) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -160,4 +161,8 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
