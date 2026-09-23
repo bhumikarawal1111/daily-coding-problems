@@ -38,6 +38,7 @@
 | [0048-rotate-image](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -85,6 +86,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
@@ -153,6 +155,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0064-minimum-path-sum) |
 ## String
 |  |
 | ------- |
