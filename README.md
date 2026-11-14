@@ -24,6 +24,7 @@
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0386-lexicographical-numbers) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0572-subtree-of-another-tree](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0572-subtree-of-another-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -168,4 +169,20 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0386-lexicographical-numbers) |
+## Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0572-subtree-of-another-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0572-subtree-of-another-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
