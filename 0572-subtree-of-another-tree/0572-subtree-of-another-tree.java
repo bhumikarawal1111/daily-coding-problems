@@ -1,12 +1,12 @@
 /**
- * Definition for a binary tree node.
- * public class TreeNode {
+ * Definition for a binary tree Root.
+ * public class TreeRoot {
  *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *     TreeRoot left;
+ *     TreeRoot right;
+ *     TreeRoot() {}
+ *     TreeRoot(int val) { this.val = val; }
+ *     TreeRoot(int val, TreeRoot left, TreeRoot right) {
  *         this.val = val;
  *         this.left = left;
  *         this.right = right;
@@ -14,33 +14,30 @@
  * }
  */
 class Solution {
-    public boolean isIdentical(TreeNode node, TreeNode subRoot){
-        if(node == null && subRoot == null){
+    public boolean isIdentical(TreeNode root, TreeNode subRoot){
+        if(root == null && subRoot== null ){
             return true;
         }
-        else if(node == null || subRoot == null || (node.val != subRoot.val) ){
+        else if(root == null || subRoot == null || root.val != subRoot.val){
             return false;
         }
-        if(!isIdentical(node.left, subRoot.left)){
+        if(!isIdentical(root.left, subRoot.left)){
             return false;
         }
-        if(!isIdentical(node.right, subRoot.right)){
+        if (!isIdentical(root.right, subRoot.right)) {
             return false;
         }
         return true;
     }
     public boolean isSubtree(TreeNode root, TreeNode subRoot) {
-        //base
         if(root == null){
             return false;
         }
-        //1step
-        if(root.val == subRoot.val){
-            if(isIdentical(root, subRoot)){
-                return true;
-            }
-        }
-        //else check in left tree and right tree of root
-        return isSubtree(root.left, subRoot) || isSubtree(root.right, subRoot);
+            if(root.val == subRoot.val){
+                if(isIdentical(root, subRoot)){
+                    return true;
+                }
+            }//else find it in left or right subtree
+            return isSubtree(root.left, subRoot) || isSubtree(root.right, subRoot);
     }
 }
