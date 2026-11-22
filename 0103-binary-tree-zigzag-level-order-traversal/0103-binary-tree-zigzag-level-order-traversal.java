@@ -21,7 +21,7 @@ class Solution {
         }
 
         Queue<TreeNode> q = new LinkedList<>();
-        q.offer(root); //offer = add
+        q.add(root); //add = add
         int level = 0; //flag
 
         while(!q.isEmpty()){
@@ -38,10 +38,10 @@ class Solution {
                     levSublist.addLast(node.val);
                 }
                 if(node.left != null){
-                    q.offer(node.left);
+                    q.add(node.left);
                 }
                 if(node.right != null){
-                    q.offer(node.right);
+                    q.add(node.right);
                 }
                 size--;
 
