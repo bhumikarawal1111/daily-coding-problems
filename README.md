@@ -192,6 +192,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0572-subtree-of-another-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0700-search-in-a-binary-search-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -209,6 +210,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0572-subtree-of-another-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0700-search-in-a-binary-search-tree) |
 ## Hash Function
 |  |
 | ------- |
@@ -232,4 +234,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
