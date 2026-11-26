@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0042-trapping-rain-water) |
@@ -78,6 +79,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0217-contains-duplicate) |
 | [0912-sort-an-array](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0912-sort-an-array) |
@@ -100,6 +102,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0061-rotate-list) |
