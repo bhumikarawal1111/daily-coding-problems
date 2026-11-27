@@ -1,28 +1,33 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
+        List<List<Integer>> ans = new ArrayList<>();
         int n = nums.length;
-        Set<List<Integer>> uniqueTriplets = new HashSet<>();
+        Arrays.sort(nums);
 
         for(int i=0; i<n; i++){
+            int j= i+1, k=n-1;
 
-            int target = -(nums[i]);
-            Set<Integer> s = new HashSet<>();
+            //to avoid duplicate triplets
+            if(i>0 && nums[i] == nums[i-1])continue;
 
-            for(int j=i+1; j<n ; j++){
+            while(j < k){
 
-                int thirdNum = target - nums[j];
+                int sum = nums[i] + nums[j] + nums[k];
 
-                if(s.contains(thirdNum)){
+                if(sum == 0){
+                    ans.add(Arrays.asList(nums[i], nums[j], nums[k]));
+                    j++; k--;
 
-                    List<Integer> t1 = Arrays.asList(nums[i], nums[j], thirdNum);
-                    Collections.sort(t1);
-                    uniqueTriplets.add(t1);
-                    
+                    while(j < k && nums[j] == nums[j-1]) j++;
                 }
-                s.add(nums[j]);
-                
+                else if(sum < 0){
+                    j++;
+                }
+                else{
+                    k--;
+                }
             }
         }
-        return new ArrayList<>(uniqueTriplets);        
+        return ans;
     }
 }
