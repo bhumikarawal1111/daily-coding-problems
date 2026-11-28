@@ -28,6 +28,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0386-lexicographical-numbers) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0543-diameter-of-binary-tree) |
@@ -179,10 +180,12 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0257-binary-tree-paths](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0257-binary-tree-paths) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0257-binary-tree-paths](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0257-binary-tree-paths) |
 ## Trie
 |  |
 | ------- |
@@ -198,6 +201,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0572-subtree-of-another-tree) |
@@ -217,6 +221,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/bhumikarawal1111/daily-coding-problems/tree/master/0572-subtree-of-another-tree) |
